@@ -29,11 +29,7 @@ app.use(cors());
 
 // OR, for stricter control:
 app.use(
-  cors({
-    origin: "http://localhost:5174", // your frontend's address
-    methods: ["GET", "POST", "PUT", "DELETE"],
-    credentials: true,
-  })
+  cors()
 );
 
 
