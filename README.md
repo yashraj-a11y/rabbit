@@ -10,7 +10,7 @@ Rabbit is a modern, user-friendly e-commerce website that enables customers to b
 - **Repository**: [GitHub](https://github.com/yashraj-a11y/rabbit)
 
 ### Live Deployment Links
-- **Live Website**: [https://rabbit-ten.vercel.app/home]((https://rabbit-ten.vercel.app/home))
+- **Live Website**: [https://rabbit-ten.vercel.app/home](https://rabbit-ten.vercel.app)
 
 ## Problem Statement
 
